@@ -10,6 +10,7 @@ class GitTestApplicationTests {
     public void test() {
         System.out.println("abc......");
         System.out.println("分支操作");
+        System.out.println("dev......");
     }
 
 }
